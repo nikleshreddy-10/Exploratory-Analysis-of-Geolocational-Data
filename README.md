@@ -16,3 +16,15 @@ After getting the best cluster values, we need to get geo-locational data from 	
 
 Step 5: Plot The Clusters On The Map : 
 At last plot the results on the map that will the user to view the locations. 
+
+Result:
+
+![Screenshot 2024-09-07 205451](https://github.com/user-attachments/assets/6c9dfff7-b6f4-42fb-86dd-21c95e4bc53b)
+
+
+1. Cluster 0 (orange) has more restaurants but less gyms and cafes.
+2. Cluster 1 (green) has maximum restaurants, gyms and cafes.
+3. Cluster 2 (red) has less cafes but more gyms and restaurants.
+4. Cluster 3 (blue)  has minimum restaurants, gyms and cafes.
+
+
